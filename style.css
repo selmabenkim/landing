@@ -1,0 +1,57 @@
+/* style.css */
+body{
+  color: #C8B8DB;
+  font-size: 42px;
+  font-family: 'Indie Flower', cursive;
+}
+h1{
+  color: #C8B8DB;
+  font-weight: lighter;
+  text-align: 
+  font-size: 49px;
+  font-family: 'Indie Flower', cursive;
+  
+}
+h2 {
+  color: #C8B8DB;
+  font-weight: lighter;
+  text-align: 
+  font-size: 49px;
+  font-family: 'Indie Flower', cursive;
+}
+a {
+  color: purle;
+}
+a:hover {
+  text-decoration: none;
+  color: #C8B8DB;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("https://scontent-cdg2-1.xx.fbcdn.net/v/t31.0-8/22291362_1433139846754999_3999747065097578764_o.jpg?oh=cf7b15e5a287f95a69bf181e5849789c&oe=5A3F2DC6") ;
+  background-size: cover;
+  padding: 150px;
+  color: pink;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer { 
+  color: white;
+  padding: 30px;
+  background: rgb(245, 245, 245) ;
+  color: lightgrey;
+}
+.card {
+  padding: 50px;
+  font-weight: lighter;
+}
