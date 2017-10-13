@@ -50,8 +50,14 @@ a:hover {
   padding: 30px;
   background: rgb(245, 245, 245) ;
   color: lightgrey;
+
 }
-.card {
+.cta { 
+background-color: #C8B8DB;
+padding: 30px;
+}
+
+.card { 
   padding: 50px;
   font-weight: lighter;
 }
